@@ -9,12 +9,12 @@ const MedfinderPromo = () => {
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
            Save time and money with Medfinder
         </h2>
-        <p className="text-lg mb-6">
-          Take advantage of a 5% discount on your initial monthly orders and
-          discover unparalleled value in our premium products and services.
-          This exclusive offer is designed to provide you with a seamless
-          introduction to our commitment to quality, affordability, and
-          exceptional customer care.
+        <p className="text-lg mb-6"> 
+          Discover a simpler way to access the medicines you need, 
+          medfinder connects you to nearby pharmacies, helping you to save time, 
+          reduce cost and get trusted care, fast and hassle-free. 
+          Experience convenience, affordability and availability like never before, 
+          <span className="font-bold">get started</span> today.
         </p>
         <button className="bg-white border border-gray-500 text-black px-6 py-3 rounded-full font-semibold hover:bg-gray-200 transition">
           Download Medfinder
