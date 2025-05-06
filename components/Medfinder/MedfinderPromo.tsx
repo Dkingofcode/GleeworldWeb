@@ -7,7 +7,7 @@ const MedfinderPromo = () => {
       {/* Left Side - Text Content */}
       <div className="md:w-1/2">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
-          Enjoy 5% off your first monthly orders
+           Save time and money with Medfinder
         </h2>
         <p className="text-lg mb-6">
           Take advantage of a 5% discount on your initial monthly orders and
